@@ -1,14 +1,32 @@
-# Ahmed Khoder
+# Ahmed Khoder 👋
 
-CEO of SAMA Logistics
+CEO of **SAMA Logistics**
 
-🚛 Container Transportation & Logistics  
-⚓ Port and Shipping Services  
-🤖 Interested in AI and Automation  
+🚛 Container Transportation  
+⚓ Port & Shipping Services  
+🤖 Interested in AI and Logistics Automation  
+
+---
 
 ## About Me
-I am the founder and CEO of SAMA Logistics, a company specialized in container transport and port services.  
-I am interested in building technology solutions that improve logistics operations.
+
+I am the founder and CEO of **SAMA Logistics**, a company specialized in container transportation and port services in Egypt.
+
+I am currently interested in building technology solutions that improve logistics operations, automation, and fleet management.
+
+---
+
+## Technologies & Interests
+
+![Logistics](https://img.shields.io/badge/Logistics-Transportation-blue)
+![AI](https://img.shields.io/badge/AI-Automation-green)
+![Ports](https://img.shields.io/badge/Ports-Shipping-orange)
+
+---
+
+## My Vision
+
+Building a world-class logistics company powered by technology and automation.
 
 📍 Port Said, Egypt
 
